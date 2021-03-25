@@ -1,0 +1,2 @@
+insert into CAKE(ID, TITLE, DESCRIPTION, IMAGE) values (1, 'Carrot Cake', 'Carrot flavoured cake', 'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/carrot-cake-f1b3d0c.jpg')
+insert into CAKE(ID, TITLE, DESCRIPTION, IMAGE) values (2, 'Lemon Cheesecake', 'Lemon based cheesecake', 'https://images.immediate.co.uk/production/volatile/sites/30/2020/08/lemon-cheesecake-member-recipe-68bbc86.jpg')
